@@ -1,2 +1,3 @@
 # ClassicPress Plugins
-See https://codepotent.com/classicpress/plugins/ for latest releases.
+
+My repositories are now private. If you're looking for ClassicPress plugins, see https://codepotent.com/classicpress/plugins/ for all the latest releases.
